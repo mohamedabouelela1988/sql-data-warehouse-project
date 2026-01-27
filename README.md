@@ -30,7 +30,11 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
 # 🛡️ License
-This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and share this project with proper attribution.
 
 # 🌟 About Me
 Hi there! I'm Mohamed Abouelela. I’m a Senior Application Engineer at Fertiglobe.
+
+Let's stay in touch! Feel free to connect with me on the following platforms:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/mohamed-abouelela-5a6ba973/)
+
